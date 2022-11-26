@@ -24,13 +24,13 @@
 
 ## ``INTRODUÇÃO``
 
-O objetivo deste projeto é explorar as árvores filogenéticas de genes nos genomas de protozoários, na procura de padrões nas subárvores relacionadas a processos evolutivos ou filogenômicos. Para realizar a exploração e comparação de árvores, um workflow baseado em técnicas de Mineração de Dados (MD) é proposto. Além disso, um outro objetivo é treinar o bolsista em aspectos relacionados à pesquisa, à Data Science, desde a coleta até a manipulação de dados, e a implementação de sistemas. 
+<p align="justify">O objetivo deste projeto é explorar as árvores filogenéticas de genes nos genomas de protozoários, na procura de padrões nas subárvores relacionadas a processos evolutivos ou filogenômicos. Para realizar a exploração e comparação de árvores, um workflow baseado em técnicas de Mineração de Dados (MD) é proposto. Além disso, um outro objetivo é treinar o bolsista em aspectos relacionados à pesquisa, à Data Science, desde a coleta até a manipulação de dados, e a implementação de sistemas.</p>
 
 <br>
 
 ## ``BIBLIOTECA``
-Biblioteca Computacional Filogenética DendroPy 
-DendroPy é uma biblioteca Python para computação filogenética. Ele fornece classes e funções para a simulação, processamento e manipulação de árvores filogenéticas e matrizes de caracteres, e suporta a leitura e escrita de dados filogenéticos em uma variedade de formatos, como NEXUS, NEWICK, NeXML, Phylip, FASTA, etc. scripts para executar algumas operações filogenéticas úteis, como conversão de dados e resumo da distribuição posterior da árvore, também são distribuídos e instalados como parte da biblioteca. O DendroPy pode, portanto, funcionar como uma biblioteca independente para filogenética, um componente de pipelines filoinformáticos multibibliotecas mais complexos ou como uma “cola” de script que monta e conduz tais pipelines.
+<p align="justify">Biblioteca Computacional Filogenética DendroPy 
+DendroPy é uma biblioteca Python para computação filogenética. Ele fornece classes e funções para a simulação, processamento e manipulação de árvores filogenéticas e matrizes de caracteres, e suporta a leitura e escrita de dados filogenéticos em uma variedade de formatos, como NEXUS, NEWICK, NeXML, Phylip, FASTA, etc. scripts para executar algumas operações filogenéticas úteis, como conversão de dados e resumo da distribuição posterior da árvore, também são distribuídos e instalados como parte da biblioteca. O DendroPy pode, portanto, funcionar como uma biblioteca independente para filogenética, um componente de pipelines filoinformáticos multibibliotecas mais complexos ou como uma “cola” de script que monta e conduz tais pipelines.</p>
 FONTE: https://dendropy.org/index.html
 
 <br>
