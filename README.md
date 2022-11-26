@@ -1,4 +1,4 @@
-<p align="justify">## **Workflow para Mineração de Dados Filogenômicos de Protozoários**</p>
+##<p align="justify">**Workflow para Mineração de Dados Filogenômicos de Protozoários**</p>
 
 ## SUMÁRIO
 
