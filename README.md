@@ -53,7 +53,7 @@ FLUXO DE NAVEGAÇÃO
 
 * **Banco de dados:** ``
 * **Conexão com o Banco de Dados:** ``
-(https://img.shields.io/static/v1?label=python&message=Linguagem&color=green&style=for-the-badge&logo=PYTHON)
+<img src="https://img.shields.io/static/v1?label=python&message=Linguagem&color=green&style=for-the-badge&logo=PYTHON"/>
 
 <br>
 
